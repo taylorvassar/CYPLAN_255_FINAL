@@ -1,1 +1,9 @@
-(insert requirements here)
+ os
+numpy
+%matplotlib inline
+pandas
+geopandas
+matplotlib.pyplot
+shapely.geometry
+shapely.geometry
+datetime
