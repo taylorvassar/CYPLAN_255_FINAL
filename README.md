@@ -1,4 +1,5 @@
-# CYPLAN_255_FINAL
+# Spacing SF: Examining Inequity in Access to Essential Amenities
+
 Hello! This project investigates the distribution of public amenities among socioeconomically diverse census tracts in San Francisco. Our main research question is: *How are key neighborhood amenities distributed across socioeconomically different areas of San Francisco, and do these spatial patterns produce compounded disadvantage?*
 
 # Reproducibility
@@ -12,5 +13,5 @@ This project utilizes datasets from several sources. Below is a table that summa
 ## Datasets
 |  Dataset | Year Coverage | Format | Source |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Row 1 Column 1| Row 1 Column 2| Row 1 Column 3| Row 1 Column 3| Row 1 Column 3|
-| Row 2 Column 1| Row 2 Column 2| Row 2 Column 3| Row 1 Column 3| Row 1 Column 3|
+| SF Census Tract| 2020 | CSV | [DataSF](https://data.sfgov.org/Geographic-Locations-and-Boundaries/Census-2020-Tracts-for-San-Francisco/tmph-tgz9/about_data)| 
+| Row 2 Column 1| Row 2 Column 2| Row 2 Column 3| Row 1 Column 3| 
