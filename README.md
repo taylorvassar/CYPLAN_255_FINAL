@@ -17,7 +17,7 @@ This project utilizes datasets from several sources. Below is a table that summa
 | Medium Income of Census Tracts| 2020-2024| Row 2 Column 3| Row 1 Column 3| 
 
 
-| hi | Header 2 | Header 3 |
+| Sataset | Year(s) | Format | Source
 | ------------- | ------------- | ------------- |
-| tesr| Row 1 Column 2| Row 1 Column 3|
-| Row 2 Column 1| Row 2 Column 2| Row 2 Column 3|
+| tesr| Row 1 Column 2| Row 1 Column 3| Row 1 Column 4|
+| Row 2 Column 1| Row 2 Column 2| Row 2 Column 3| Row 1 Column 4|
