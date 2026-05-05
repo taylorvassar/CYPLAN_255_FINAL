@@ -15,7 +15,7 @@ This project utilizes datasets from several sources. Below is a table that summa
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | SF Census Tract| 2020| CSV| [DataSF](https://data.sfgov.org/Geographic-Locations-and-Boundaries/Census-2020-Tracts-for-San-Francisco/tmph-tgz9/about_data)| 
 | Medium Income of Census Tracts| 2020-2024| CSV| [US Census Bureau](https://www.census.gov/programs-surveys/acs/news/data-releases/2024/release.html#fiveyear)| 
-| Active Food Services| 1960-2026| CSV| [DataSF]([https://www.census.gov/programs-surveys/acs/news/data-releases/2024/release.html#fiveyear](https://data.sfgov.org/Economy-and-Community/Active-Food-Services/q484-t4an)| 
+| Active Food Services| 1960-2026| CSV| [DataSF](https://data.sfgov.org/Economy-and-Community/Active-Food-Services/q484-t4an)| 
 | SNAP Retailers| 2020-2025| CSV| [PolicyMap](https://www.policymap.com/data/sources/united-states-department-of-agriculture-usda-agricultural-marketing-service)| 
 | Mobile Food Services| 2015-2026| CSV| [Open Data SF](https://opendatasanfrancisco.com/mobile-food-facilities#results)|
 | Muni Stops| 2025| CSV| [DataSF](https://data.sfgov.org/Transportation/Muni-Stops/i28k-bkz6/about_data)|
