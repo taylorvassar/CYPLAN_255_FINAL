@@ -8,7 +8,7 @@ In order to reproduce your own version on your device, do the following steps:
 **1.** Run git clone ... in your terminal
 **2.**
 
-# Data
+# Data 
 This project utilizes datasets from several sources. Below is a table that summarizes the information. The data source is **hyperlinked** in the datset name, and clicking it will take you to the respective source website.
 ## Datasets
 |  Dataset | Year Coverage | Format | Source |
